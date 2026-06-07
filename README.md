@@ -254,12 +254,12 @@ This project is organized based on PMPH *Physiology*, 10th Edition, for educatio
 
 ---
 
-## ⭐ Star History
+## Star History
 
-<a href="https://www.star-history.com/#xllgreen/Physiology-PMPH-10edition&Date">
+<a href="https://www.star-history.com/?repos=xllgreen%2FPhysiology-PMPH-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xllgreen/Physiology-PMPH-10edition&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xllgreen/Physiology-PMPH-10edition&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xllgreen/Physiology-PMPH-10edition&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Physiology-PMPH-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Physiology-PMPH-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Physiology-PMPH-10edition&type=date&legend=top-left" />
  </picture>
 </a>
